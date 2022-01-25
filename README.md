@@ -9,6 +9,8 @@ Meeting room manager - Back-End
 * Java 8
 * Maven
 
+----Endpoints created in the API---
+
 * create meeting room POST - /api/v1/rooms 
 * List all rooms GET - /api/v1/rooms 
 * Search for a room by Id GET - /api/v1/rooms/{id} 
